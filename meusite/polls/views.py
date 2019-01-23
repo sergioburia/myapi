@@ -8,4 +8,4 @@ def index(request):
     return HttpResponse("This is the polls index")
 
 def xablau(request):
-    return HttpResponse("Teste")
+    return HttpResponse("Xablau")
